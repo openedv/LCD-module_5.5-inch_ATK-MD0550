@@ -4,7 +4,7 @@
 
 The ATK-MD0550 module looks like this:
 
-<img src="1_docs/3_figures/lcd.png" style="zoom:25%;" />
+<img src="1_docs/3_figures/LCD.png">
 
 ### 1.2 Features
 
